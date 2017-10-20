@@ -1,4 +1,4 @@
-# ButlerianCoin ᘀTLC
+# ButlerianCoin ᘀ BTLC
 ==========================
 
 La seule cryptocurrency approuvée pour toutes vos transactions Butleriannesques.
